@@ -28,7 +28,7 @@ output: html_document
 
 Please type only the link to your repository using the template below. Fill in both the square brackets `[]` and the parentheses `()` with your link.
 
-https://github.com/znr0825/Short_lab4
+[YOUR LINK HERE](YOUR LINK HERE)
 
 Here's a checklist of what we should see at the link above:
 
